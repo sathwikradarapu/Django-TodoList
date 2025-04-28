@@ -9,14 +9,14 @@ A simple and clean Todo List web application built using Django.
 
 ### Features:
 - Add new tasks
-- Mark tasks as completed
+- Edit tasks
 - Delete completed tasks
 - View all tasks in an organized list
 - User-friendly and minimalistic UI
 
 ### How to Use:
 1. **Add Task**: Add a new task by entering the task details.
-2. **Complete Task**: Mark tasks as completed when done.
+2. **Edit Task**: Edit the tasks even after creation.
 3. **Delete Task**: Delete tasks from the list once they are completed.
 4. **View Tasks**: View all your tasks neatly listed on the dashboard.
 
